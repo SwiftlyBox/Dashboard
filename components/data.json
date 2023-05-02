@@ -1,0 +1,49 @@
+{
+    "tabs": [
+      {
+        "name": "Customer Clicks",
+        "percentage": 72,
+        "bars": {
+          "brown": 25,
+          "red": 10,
+          "green": 40,
+          "blue": 25
+        },
+        "status": {
+          "color": "red",
+          "text": "not-good"
+        },
+        "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam lacus sed dolor efficitur, eget egestas est suscipit. Sed vel orci justo. Nam at leo sem. Donec tempor bibendum risus, id vehicula metus. Duis eu risus velit. Sed gravida leo nibh, sit amet feugiat ex facilisis vitae. Sed aliquam mollis orci ut scelerisque. Sed laoreet fringilla enim, ac ullamcorper felis rutrum vel. Vivamus vitae mi ut libero viverra faucibus."
+      },
+      {
+        "name": "Sales",
+        "percentage": 56,
+        "bars": {
+          "brown": 10,
+          "red": 20,
+          "green": 30,
+          "blue": 40
+        },
+        "status": {
+          "color": "orange",
+          "text": "better"
+        },
+        "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam lacus sed dolor efficitur, eget egestas est suscipit. Sed vel orci justo. Nam at leo sem. Donec tempor bibendum risus, id vehicula metus. Duis eu risus velit. Sed gravida leo nibh, sit amet feugiat ex facilisis vitae. Sed aliquam mollis orci ut scelerisque. Sed laoreet fringilla enim, ac ullamcorper felis rutrum vel. Vivamus vitae mi ut libero viverra faucibus."
+      },
+      {
+        "name": "Traffic Sources",
+        "percentage": 84,
+        "bars": {
+          "brown": 5,
+          "red": 15,
+          "green": 60,
+          "blue": 20
+        },
+        "status": {
+          "color": "green",
+          "text": "good"
+        },
+        "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam lacus sed dolor efficitur, eget egestas est suscipit. Sed vel orci justo. Nam at leo sem. Donec tempor bibendum risus, id vehicula metus. Duis eu risus velit. Sed gravida leo nibh, sit amet feugiat ex facilisis vitae. Sed aliquam mollis orci ut scelerisque. Sed laoreet fringilla enim, ac ullamcorper felis rutrum vel. Vivamus vitae mi ut libero viverra faucibus."
+      }
+    ]
+  }
